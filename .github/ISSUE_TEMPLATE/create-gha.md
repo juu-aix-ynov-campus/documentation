@@ -1,8 +1,8 @@
 ---
 name: Creation d'une CI via GitHub Actions
 about: Voir ensemble pour la création d'une CI
-title: ''
-labels: 'enhancement'
+title: 'Création d'une CI pour **{GROUP_ID}**'
+labels: 'create-ci'
 assignees: 'j-catania'
 
 ---
