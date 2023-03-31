@@ -2,7 +2,7 @@
 name: Creation d'une CI via GitHub Actions
 about: Voir ensemble pour la création d'une CI
 title: Création d'une CI pour {GROUP_ID}
-labels: 'create-ci, need-triage'
+labels: 'create-ci, need-triage, m1/m2, 22/23'
 assignees: 'j-catania'
 ---
 
